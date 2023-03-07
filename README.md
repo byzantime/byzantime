@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Most of my repos end up on Gitlab - but GitHub seems more convenient as a profile.
+Most of the work gets done [using Gitlab](https://gitlab.com/byzantine) - but GitHub seems more convenient as a profile.
 
 ## Projects!
 
